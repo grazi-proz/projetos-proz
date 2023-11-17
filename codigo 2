@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Lugares Turísticos na Europa</title>
+  <style>
+    /* Estilos para exemplo - poderiam ser em um arquivo CSS separado */
+    .destino {
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      padding: 20px;
+      border-radius: 5px;
+    }
+    .destino img {
+      width: 100%;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+    .destino h2 {
+      margin-top: 0;
+    }
+    .destino p {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Lugares Turísticos na Europa</h1>
+
+  <div class="destino">
+    <h2>Paris, França</h2>
+    <img src="link_para_imagem_paris.jpg" alt="Paris">
+    <p>Paris, a cidade do amor, é conhecida por suas atrações icônicas como a Torre Eiffel, Museu do Louvre, Catedral de Notre-Dame e mais.</p>
+    <p>Explore as charmosas ruas de Montmartre e desfrute de deliciosos croissants e macarons.</p>
+  </div>
+
+  <div class="destino">
+    <h2>Roma, Itália</h2>
+    <img src="link_para_imagem_roma.jpg" alt="Roma">
+    <p>Roma é uma cidade com uma rica história, oferecendo o Coliseu, o Vaticano, o Pantheon e a Fontana di Trevi.</p>
+    <p>Desfrute de uma autêntica pizza italiana e passeie pelas ruas de paralelepípedos.</p>
+  </div>
+
+  <div class="destino">
+    <h2>Barcelona, Espanha</h2>
+    <img src="link_para_imagem_barcelona.jpg" alt="Barcelona">
+    <p>Barcelona é conhecida por sua arquitetura única, com destaque para as obras de Gaudí, como a Sagrada Família e o Parque Güell.</p>
+    <p>Relaxe nas praias e experimente a vibrante vida noturna da cidade.</p>
+  </div>
+
+</body>
+</html>
