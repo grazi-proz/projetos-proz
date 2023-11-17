@@ -1,0 +1,17 @@
+Grafos são estruturas de dados que consistem em nós (também chamados de vértices) conectados por arestas. Eles são amplamente usados no contexto tecnológico para representar relacionamentos e conexões entre diferentes entidades. Aqui estão dois exemplos de como os grafos são usados:
+
+Redes Sociais
+As redes sociais, como o Facebook, LinkedIn e Twitter, usam grafos para representar conexões entre usuários. Cada usuário é um nó, e as conexões de amizade, seguidores ou conexões profissionais são representadas como arestas entre esses nós.
+
+Nós (Vértices): Representam os perfis de usuários.
+Arestas: Representam conexões, como amizade, seguidores, conexões profissionais etc.
+Os grafos são usados para recomendações de amizade, encontrar conexões em comum, personalizar o feed de notícias com base nas interações e interesses dos usuários, entre outros recursos.
+
+Mapas e Roteamento de Redes
+Aplicações de mapas, como Google Maps, usam grafos para representar rotas e conexões entre locais geográficos. Cada interseção ou ponto de interesse é um nó, e as estradas ou conexões entre esses locais são as arestas.
+
+Nós (Vértices): Representam locais geográficos, como interseções, ruas, pontos de interesse etc.
+Arestas: Representam estradas, conexões entre locais.
+Os algoritmos de caminho mais curto, como o algoritmo de Dijkstra, são aplicados para encontrar a rota mais rápida entre dois pontos, considerando a estrutura do grafo (as estradas e conexões) para calcular a melhor rota.
+
+Esses exemplos demonstram como os grafos são usados em aplicações do mundo real, ajudando na modelagem e resolução de problemas que envolvem relações e conexões entre entidades.
